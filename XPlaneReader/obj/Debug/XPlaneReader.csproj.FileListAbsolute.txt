@@ -1,0 +1,11 @@
+C:\Users\Tom.Maclean\source\repos\XPlaneReader\XPlaneReader\bin\Debug\XPlaneReader.exe.config
+C:\Users\Tom.Maclean\source\repos\XPlaneReader\XPlaneReader\bin\Debug\XPlaneReader.exe
+C:\Users\Tom.Maclean\source\repos\XPlaneReader\XPlaneReader\bin\Debug\XPlaneReader.pdb
+C:\Users\Tom.Maclean\source\repos\XPlaneReader\XPlaneReader\obj\Debug\XPlaneReader.csprojAssemblyReference.cache
+C:\Users\Tom.Maclean\source\repos\XPlaneReader\XPlaneReader\obj\Debug\XPlaneReader.csproj.CoreCompileInputs.cache
+C:\Users\Tom.Maclean\source\repos\XPlaneReader\XPlaneReader\obj\Debug\XPlaneReader.exe
+C:\Users\Tom.Maclean\source\repos\XPlaneReader\XPlaneReader\obj\Debug\XPlaneReader.pdb
+C:\Users\Tom.Maclean\source\repos\XPlaneReader\XPlaneReader\bin\Debug\XPlaneReader.exe.manifest
+C:\Users\Tom.Maclean\source\repos\XPlaneReader\XPlaneReader\bin\Debug\XPlaneReader.application
+C:\Users\Tom.Maclean\source\repos\XPlaneReader\XPlaneReader\obj\Debug\XPlaneReader.exe.manifest
+C:\Users\Tom.Maclean\source\repos\XPlaneReader\XPlaneReader\obj\Debug\XPlaneReader.application
